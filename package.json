@@ -9,13 +9,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "dependencies": {
-    ...
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
+  } ,
 }
 {
   "name": "imdb-clone",
